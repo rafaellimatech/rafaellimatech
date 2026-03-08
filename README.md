@@ -4,7 +4,7 @@
 
 ##  🚀 Sobre mim
 
-Olá, meu nome é **Rafael Rocha de Lima**. Atualmente sou estudante de **Ciência da Computação na Universidade do Estado do Rio Grande do Norte (UERN)**. Também estou realizando um **curso técnico no Metrópole Digital (UFRN)**, com o objetivo de ampliar meus conhecimentos e desenvolver habilidades na área de tecnologia. Sou apaixonado por tecnologia, programação e desenvolvimento de software, com foco em me tornar um **desenvolvedor Full Stack**. Gosto de aprender constantemente, explorar novas ferramentas e construir projetos que fortaleçam meu portfólio. Meu inglês é **básico**, mas estou buscando aprimorá-lo para acompanhar melhor a documentação e colaborar em projetos internacionais. Atualmente, estou focado em **desenvolvimento web, programação e construção de projetos práticos** para ganhar experiência na área.
+Olá, meu nome é **Rafael Rocha de Lima**. Atualmente sou estudante de **Ciência da Computação na (UERN)**. Também estou realizando um **curso técnico no Metrópole Digital (UFRN)**, com o objetivo de ampliar meus conhecimentos e desenvolver habilidades na área de tecnologia. Sou apaixonado por tecnologia, programação e desenvolvimento de software, com foco em me tornar um **desenvolvedor Full Stack**. Gosto de aprender constantemente, explorar novas ferramentas e construir projetos que fortaleçam meu portfólio. Meu inglês é **básico**, mas estou buscando aprimorá-lo para acompanhar melhor a documentação e colaborar em projetos internacionais. Atualmente, estou focado em **desenvolvimento web, programação e construção de projetos práticos** para ganhar experiência na área.
 
 ---
 
