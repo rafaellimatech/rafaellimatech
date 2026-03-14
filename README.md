@@ -1,6 +1,6 @@
 # 🧑🏽‍💻 Rafael Lima
 
-**`Desenvolvedor FullStack em formação`**
+**`Desenvolvedor Full Stack em formação`**
 
 ##  🚀 Sobre mim
 
